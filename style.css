@@ -58,3 +58,8 @@ p{
     margin-top: 15px;
     text-align: center;
 }
+@media(max-width:900px) {
+    #game{
+        width: 90%;
+    }
+}

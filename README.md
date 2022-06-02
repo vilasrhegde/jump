@@ -3,6 +3,9 @@
 
 Play it now by clicking [here](https://vilasrhegde.github.io/jump/)
 
+**Disclaimer**
+*If you are using touchpad please click the touchpad for better experience*
+
 ![image](jump.png)
 
 

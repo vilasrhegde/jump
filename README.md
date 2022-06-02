@@ -1,6 +1,8 @@
 # Simple Jump Game
 > Built using Javascript and HTML, CSS
 
+Play it now by clicking [here](https://vilasrhegde.github.io/jump/)
+
 ![image](jump.png)
 
 

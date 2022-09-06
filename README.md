@@ -1,12 +1,14 @@
 # Simple Jump Game
 > Built using Javascript and HTML, CSS
 
+Search any movies on TamilRockers!
+
 Play it now by clicking [here](https://vilasrhegde.github.io/jump/)
 
 **Disclaimer**
 *If you are using touchpad please **press** the touchpad for better experience*
 
-![image](jump.png)
+![image](https://user-images.githubusercontent.com/85540091/188561052-8a3b9a43-d864-413d-aa5f-921fd5a54633.png)
 
 
 # Rules

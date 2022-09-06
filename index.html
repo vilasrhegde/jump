@@ -3,14 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="color-scheme" content="dark">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css" />
-    <title>Jump Jump Jump</title>
+    <title>Find me Tor</title>
 </head>
 
     
     <div class="main">
-        <h1>Get Torrent links on Web</h1>   
+        <h1>Find Torrent for any Movies</h1>   
         <input autofocus="true" autocapitalize="words" id="name" placeholder="Type movie here.." type="text">
         <br>
         <button type="submit" onclick="tamilmv()" id="search-btn">TamilMV</button>
@@ -28,12 +29,7 @@
             outline: none;
             padding: 0;
         }
-        h1{
-            text-align: center;
-            color: rgb(0, 0, 0);
-            margin: 3%;
-            text-shadow:  0px 3px 3px rgba(75, 71, 71, 0.784);
-        }
+     
 
         .main{
             width: 100%;
@@ -64,6 +60,11 @@
             cursor: pointer;
 
         }
+        footer{
+            font-size: 12px;
+            position:absolute;
+            bottom: 2%;
+        }
     </style>
 
     <div id="game">
@@ -76,6 +77,8 @@
     </div>
     <p>Score: <span id="scoreSpan"></span></p>
     <h2 id="result"></h2>
+
+    <footer>Made by Vilas Hegde</footer>
 </body>
 <script src="script.js"></script>
 </html>

@@ -1,5 +1,5 @@
-# Simple Jump Game
-> Built using Javascript and HTML, CSS
+# Simple Jump Game and Get Torrent 
+> Built using Javascript  and HTML, CSS
 
 Search any movies on TamilRockers!
 
